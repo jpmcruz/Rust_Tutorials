@@ -1,0 +1,7 @@
+[package]
+name = "hello-rust"
+version = "0.1.0"
+authors = ["Jason Paul Cruz <aist.cruz@jppanasonic.onmicrosoft.com>"]
+
+[dependencies]
+ferris-says = "0.1"
